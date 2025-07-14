@@ -73,6 +73,11 @@ body {
     --color-theme-background: #171717;
     --color-highlight: #b5ff6d;
   }
+
+  /* OTHERS  BASE STYLE */
+  ::-webkit-scrollbar {
+    width: 0px;
+  }
 }
 
 @layer utilities {

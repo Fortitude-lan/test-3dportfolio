@@ -36,8 +36,8 @@ const Hero = () => {
                                 </span>
 
                             </h1>
-                            <h1>into Real Projexts</h1>
-                            <h1>that Deliver Result</h1>
+                            {/* <h1>into Real Projexts</h1>
+                            <h1>that Deliver Result</h1> */}
                         </div>
                         <p className="text-highlight md:text-xl relative z-10 pointer-events-none">
                             Hi, I’m Adrian, a developer based in Croatia with a passion for
