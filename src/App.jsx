@@ -16,12 +16,15 @@ function App() {
 
   return (
     <main>
-      <Hero />
-
       <div className='absolute top-0 right-0 text-foreground text-right'
         onClick={toggleDarkMode}
         ref={themeRef}
       > Mode Theme</div>
+
+
+      <Hero />
+
+
     </main>
   )
 }
